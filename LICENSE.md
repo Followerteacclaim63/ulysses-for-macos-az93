@@ -1,4 +1,4 @@
-#  
+#  advanced Extension for Ulysses for macOS - OCR scanning and task automation is the best Ulysses for macOS extension, featuring OCR scanning and task automation. Safe, efficient,
 
 
 
